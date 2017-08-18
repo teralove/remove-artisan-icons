@@ -5,7 +5,7 @@ Removes the artisan mastery icons from name plates.
 
 ## Instructions
 1. Download [Icon_System.gpk](https://github.com/teralove/remove-artisan-icons/blob/master/Icon_System.gpk)
-2. Move file into "TERA\Client\S1Game\CookedPC\Art_Data\_Packages\_S1UI"
+2. Move file into "TERA\Client\S1Game\CookedPC\Art_Data\\_Packages\\_S1UI"
 
 ## Notes
 - This gpk is a modifed version of Icon_System.gpk found on [https://github.com/neowutran/S1UI_GPU](https://github.com/neowutran/S1UI_GPU)
