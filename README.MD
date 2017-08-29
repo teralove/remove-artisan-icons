@@ -1,3 +1,5 @@
+**For a proxy mod version (Not a gpk swap), go here: (https://github.com/teralove/no-artisan-icons)**
+
 # Remove Artisan Icons (UI Mod)
 Removes the artisan mastery icons from name plates.
 
